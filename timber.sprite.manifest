@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4170166324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22d8ac2b24ef650bd085a7b1b173f746
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66abc29ca6a33915023b6d27026cf58c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/Timbersaw.prefab
+Dependencies: []
